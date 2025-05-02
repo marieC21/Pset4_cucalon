@@ -35,3 +35,4 @@ Puedes instalar las bibliotecas necesarias ejecutando el siguiente comando:
 
 ```bash
 pip install -r requirements.txt
+pip install -r requirements.txt
