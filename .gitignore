@@ -1,0 +1,8 @@
+# Ignorar archivos compilados de Python
+__pycache__/
+*.log
+*.pyc
+
+# Ignorar archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
